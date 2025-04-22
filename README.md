@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I am **Wanyrhyx**, an aspiring **Test Engineer** c
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently learning software testing concepts, including functional testing, performance testing, and automation testing.
+- 🔭 I’m currently learning software testing concepts, including functional testing, performance testing, 和 automation testing.
 - 🌱 Tools I’m exploring: **Selenium**, **JMeter**, **Postman**, and more.
 - 💬 I enjoy sharing my learning journey and engaging with fellow professionals.
 
@@ -16,11 +16,6 @@ Welcome to my GitHub profile! I am **Wanyrhyx**, an aspiring **Test Engineer** c
 - **Programming Languages**: Python, Java
 - **Testing Areas**: Functional Testing, Performance Testing, Automation Testing
 
----
-
-### 📂 Projects
-- [Automation Testing Sample Project](https://github.com/your-project-link)
-- [Performance Testing Experiment](https://github.com/your-project-link)
 
 ---
 
